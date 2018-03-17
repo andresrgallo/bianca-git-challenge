@@ -4,3 +4,4 @@ Now I am deleting last two sentences using git checkout otherbranch(to copy file
 file.txt
 ++++
 Now I am practicing with merge.
+-From develop branch, adding a new line.
