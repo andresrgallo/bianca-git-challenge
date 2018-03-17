@@ -1,2 +1,7 @@
 File created to practice pull, push
+<<<<<<< HEAD
 branches commands.
+=======
+branches commands.
+Now I am deleting last two sentences
+>>>>>>> new-branch
