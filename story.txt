@@ -1,3 +1,4 @@
 File created to practice pull, push
 branches commands.
 Now I am adding new lines from new branch.
+Adding a new line from a third branch.
