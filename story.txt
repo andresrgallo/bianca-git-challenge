@@ -1,3 +1,6 @@
 File created to practice pull, push
 branches commands.
-Now I am deleting last two sentences
+Now I am deleting last two sentences using git checkout otherbranch(to copy file)
+file.txt
+++++
+Now I am practicing with merge.
